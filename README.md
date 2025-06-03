@@ -1,4 +1,4 @@
-# Welcome To My Profile
+# wellcome to my profile
 # Hi there 👋 I'm Adam
 
 🎓 I'm a FrontEnd & Android Developer  
