@@ -1,6 +1,6 @@
 # wellcome to my profile
-# Hi there 👋 I'm Adam
 
+ Hi there 👋 I'm Adam
 🎓 I'm a FrontEnd & Android Developer  
 📍 Based in Bogor | Student at Pesantren PeTIK  
 📱 Passionate in Kotlin, Java & PHP  
