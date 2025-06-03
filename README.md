@@ -14,5 +14,5 @@ Connect with me:
 ...
 
 ## 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adamdev&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamdev&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdev&layout=compact&theme=radical)
