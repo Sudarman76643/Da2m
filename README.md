@@ -1,18 +1,32 @@
+# Welcome To My Profile
+# Hi there 👋 I'm Adam
 
-# Welcome to my profile 👋
+🎓 I'm a FrontEnd & Android Developer  
+📍 Based in Bogor | Student at Pesantren PeTIK  
+📱 Passionate in Kotlin, Java & PHP  
 
-Hi there 👋 I'm da2m 👨‍💻
+---
 
-Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sudarman-a44a13344/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/da2m_vibes/)
+## 🔧 Tech Stack & Tools
 
-## 🔧 Languages and Tools
-![Java](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-...
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📊 My GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamdev&theme=dark)
+---
+
+## 📊 GitHub Stats
+
+![Adam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamdev&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/nama-kamu)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=flat-square)](https://instagram.com/nama_kamu)
