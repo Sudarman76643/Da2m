@@ -4,8 +4,8 @@
 Hi there 👋 I'm Adam 👨‍💻
 
 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/nama-kamu)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/nama_kamu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sudarman-a44a13344/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/da2m_vibes/)
 
 ## 🔧 Languages and Tools
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
